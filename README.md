@@ -1,6 +1,6 @@
-# Movie Consumindo a API TMDB
+# Movie consuming API TMDB
 
-Projeto desenvolvido em ReactJs utilizando o Vite.
+Project developed in ReactJs using Vite.
 
 ## Available Scripts
 
